@@ -1,0 +1,20 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Contact A\u001b[Z\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dpp \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DSimple Contact App \u001b[Zact\u001b[C\u001b[C\u001b[\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C \u001bContact App With nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon App",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fuad Jabbar Dzakwan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.7",
+    "validator": "^13.6.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
